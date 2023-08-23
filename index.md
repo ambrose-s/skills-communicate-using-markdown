@@ -8,3 +8,7 @@
 string one = "!";
 println("wowee i love the dog" + one);
 ```
+
+- [x] look at dog photo
+- [x] make this list
+- [ ] finish assignment
